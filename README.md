@@ -1,2 +1,2 @@
 My edited My first README file
-Updated radme file
+Updated readme file
